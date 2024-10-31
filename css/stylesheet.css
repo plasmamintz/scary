@@ -1,0 +1,52 @@
+/* --------------------TAGS-------------------*/
+
+body {
+  background-color: #000000;
+  text-align: center;
+  margin: 0;
+  width: 100%;
+  color: #ffffff;
+  top: 90px;
+  position: absolute;
+  min-height: 100%;
+}
+
+h1{
+  font-size: 8rem;
+}
+
+h2{
+  font-size: 6rem;
+}
+
+h3{
+  font-size: 5rem;
+  color: #a8a8a8;
+}
+
+h4{
+  font-size: 4rem;
+  color: #808080;
+}
+
+h5{
+  font-size: 3rem;
+  color:#5f5f5f;
+}
+
+h6{
+  font-size: 2rem;
+  color:#474747;
+}
+
+p{
+  color: #313131;
+}
+
+small{
+  color:#1a1a1a;
+}
+
+img{
+  width: 40%;
+}
